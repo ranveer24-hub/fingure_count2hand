@@ -34,7 +34,7 @@ fingure_count2hand/
 
 ## 🖼️ Demo (Add Screenshot Later)
 👉 You can add a screenshot or gif of the project running here.
-
+   ![Demo Screenshot](https://github.com/ranveer24-hub/fingure_count2hand/blob/main/fingure1hand%20screenshot%20101709.png)
 ---
 
 ## 👨‍💻 Author
